@@ -1,7 +1,7 @@
 # tailwindcss_study
 tailwindcss를 공부한 코드를 올립니다.
 
-👇강좌 및 출처👇
+강좌 및 출처 : 
 https://www.youtube.com/watch?v=0W-__lgt0v0&list=PLF21Q5z3jPfMxfwVEIqd_BZqQb9Xrrjp4 
 
 👇결과👇
